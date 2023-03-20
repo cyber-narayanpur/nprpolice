@@ -78,7 +78,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #400202;
+  background: #f3eded;
   transition: all 0.5s;
   z-index: 997;
   padding: 14px 0;
@@ -170,7 +170,7 @@ h6 {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 600;
-  color: #d3d3d3;
+  color: #a3a3a3;
   white-space: nowrap;
   text-transform: uppercase;
   transition: 0.3s;
